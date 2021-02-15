@@ -6,4 +6,4 @@ For Thursday Google Meet (later ClubHouse) drop-in conversations, hosted by @cki
 
 ![image](https://user-images.githubusercontent.com/261265/107976716-0eaa0600-6fcb-11eb-801e-6c7030bed2c9.png)
 
-OR [**Drop in directly - meet.google.com/gdt-...**](meet.google.com/gdt-sxbc-gyy)
+OR [**Drop in directly - meet.google.com/gdt-...**](https://meet.google.com/gdt-sxbc-gyy)
