@@ -1,9 +1,8 @@
 # Thursday Hangouts
 
-For Thursday Google Meet (later ClubHouse) drop-in conversations, hosted by @ckithika
+For Thursday Hangout/drop-in conversations, hosted by @ckithika
 
-Topic: KE CTOs Hangout
-Time: Feb 18, 2021 17:00 Nairobi
+Time: Thursdays 17:00 Nairobi (GMT + 3)
 
 Join Zoom Meeting
 https://zoom.us/j/95059304808?pwd=cDM5SDUwV1VTU2NNTGx0b2tiTWd4UT09
