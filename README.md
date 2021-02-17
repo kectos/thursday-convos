@@ -1,8 +1,36 @@
-# Thursday Convos
+# Thursday Hangouts
 
 For Thursday Google Meet (later ClubHouse) drop-in conversations, hosted by @ckithika
 
-📆 [**Add to Google Calendar**](https://calendar.google.com/event?action=TEMPLATE&tmeid=MW8wcWhkajEwcWNxZXZzMDk0NGZjZ3VlbTlfMjAyMTAyMThUMTQwMDAwWiBwcm9mbmFuZGFhQG0&tmsrc=profnandaa%40gmail.com&scp=ALL) OR [**Drop in directly - meet.google.com/gdt-...**](https://meet.google.com/gdt-sxbc-gyy)
+Topic: KE CTOs Hangout
+Time: Feb 18, 2021 17:00 Nairobi
 
-![image](https://user-images.githubusercontent.com/261265/107976716-0eaa0600-6fcb-11eb-801e-6c7030bed2c9.png)
+Join Zoom Meeting
+https://zoom.us/j/95059304808?pwd=cDM5SDUwV1VTU2NNTGx0b2tiTWd4UT09
 
+```
+Meeting ID: 950 5930 4808
+Passcode: 268720
+```
+
+## Dial-in
+
+> ℹ **NOTE:** No toll-free for Kenya yet.
+
+```
+One tap mobile
++12532158782,,95059304808#,,,,*268720# US (Tacoma)
++13017158592,,95059304808#,,,,*268720# US (Washington DC)
+
+Dial by your location
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Washington DC)
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 6833 US (San Jose)
+        +1 929 205 6099 US (New York)
+Meeting ID: 950 5930 4808
+Passcode: 268720
+```
+
+Find your local number: https://zoom.us/u/arQlNYD4
