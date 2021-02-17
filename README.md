@@ -1,8 +1,8 @@
 # Thursday Hangouts
 
-For Thursday Hangout/drop-in conversations, hosted by @ckithika
+Thursday Hangouts/drop-in conversations, hosted by [@ckithika](https://github.com/ckithika)
 
-Time: Thursdays 17:00 Nairobi (GMT + 3)
+**Time: Thursdays 17:00 Nairobi (GMT + 3)**
 
 Join Zoom Meeting
 https://zoom.us/j/95059304808?pwd=cDM5SDUwV1VTU2NNTGx0b2tiTWd4UT09
