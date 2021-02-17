@@ -9,7 +9,7 @@ https://zoom.us/j/95059304808?pwd=cDM5SDUwV1VTU2NNTGx0b2tiTWd4UT09
 
 ```
 Meeting ID: 950 5930 4808
-Passcode: 268720
+Passcode: <ask in the group>
 ```
 
 ## Dial-in
@@ -29,7 +29,7 @@ Dial by your location
         +1 669 900 6833 US (San Jose)
         +1 929 205 6099 US (New York)
 Meeting ID: 950 5930 4808
-Passcode: 268720
+Passcode: <ask in the group>
 ```
 
 Find your local number: https://zoom.us/u/arQlNYD4
